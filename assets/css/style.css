@@ -1,3 +1,5 @@
+$ rougify style github > style.css
+
 :root {
     --primary-color: #ec1f55;
     --text-color: #333;
